@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "lHP5yrUSbATus9HE5rKgRiGD7BwtU2j9RsAu5zQUI7XBfns0U4KsR1JY7z7tOqBKV2erthA35pFoVgl9QUVJ+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hakan\\source\\repos\\gRPCLearner\\gRPCConsoleClient\\gRPCConsoleClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hakan\\.nuget\\packages\\google.protobuf\\3.20.0\\google.protobuf.3.20.0.nupkg.sha512",
+    "C:\\Users\\Hakan\\.nuget\\packages\\grpc.core.api\\2.44.0\\grpc.core.api.2.44.0.nupkg.sha512",
+    "C:\\Users\\Hakan\\.nuget\\packages\\grpc.net.client\\2.44.0\\grpc.net.client.2.44.0.nupkg.sha512",
+    "C:\\Users\\Hakan\\.nuget\\packages\\grpc.net.common\\2.44.0\\grpc.net.common.2.44.0.nupkg.sha512",
+    "C:\\Users\\Hakan\\.nuget\\packages\\grpc.tools\\2.45.0\\grpc.tools.2.45.0.nupkg.sha512",
+    "C:\\Users\\Hakan\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\Hakan\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
